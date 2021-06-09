@@ -23,7 +23,7 @@ The parameter values include:
 * object(s): Any object what we want to output on the screen, including text, numbers or variables.
 * sep=separator: A way to specify how to separate objects. This is an optional parameter, and we will see examples in a while.
 
-Note that if we want to print text on the screen we can use single or double quotes. We always need to be consistent.
+Note, if we want to print text on the screen we can use single or double-quotes. We always need to be consistent.
 
 Let's see an example:
 ```bash
@@ -31,6 +31,11 @@ print("Hi!")
 ```
 This script will print ```Hi!``` on the screen.
 
+## Resources
+
+Here are some useful resources for you to explore:
+* [Python print() Function](https://www.w3schools.com/python/ref_func_print.asp)
+* [Your Guide to the Python print() Function](https://realpython.com/python-print/)
 
 
 ## Exercises
@@ -66,3 +71,4 @@ Your task is to print the following two messages on the screen, one after the ot
 ```bash
 Hello there!
 This is my second output.
+```
