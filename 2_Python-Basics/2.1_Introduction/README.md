@@ -2,7 +2,6 @@
 
 In this exercise, we will learn the use of the ```print``` Python function that will help us to output a message on the screen.
 
-
 ## Usage
 
 To use the ```print``` function we will need to follow the next syntax:
@@ -71,4 +70,12 @@ Your task is to print the following two messages on the screen, one after the ot
 ```bash
 Hello there!
 This is my second output.
+```
+
+### Task 2.1.4
+
+Your task is to print the following two messages on the screen, by concatenating the two texts in a single line as follows: **Hi** and **there!**
+* Your result should look like this:
+```bash
+Hello there!
 ```
