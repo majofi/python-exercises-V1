@@ -36,6 +36,8 @@ Here are some useful resources for you to explore:
 * [Python print() Function](https://www.w3schools.com/python/ref_func_print.asp)
 * [Your Guide to the Python print() Function](https://realpython.com/python-print/)
 * [A Basic Python main()](https://realpython.com/python-main-function/)
+* [Python Comments](https://www.w3schools.com/python/python_comments.asp)
+* [Python String format() method](https://www.w3schools.com/python/ref_string_format.asp)
 
 
 ## Exercises
@@ -305,7 +307,7 @@ Names: John, Mary
 
 ### Task 2.1.15
 
-Your task is to create a Python program using the ```main()``` method. The program should construct the following text with the city populations ```Berlin: 3645000, London: 8982000```, using the ```format``` function.
+Your task is to create a Python program using the ```main()``` method. The program should construct a text with the city populations ```Berlin: 3645000, London: 8982000```, using the ```format``` function.
 
 Follow the next specification:
 
