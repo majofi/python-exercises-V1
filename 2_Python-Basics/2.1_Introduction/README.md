@@ -58,3 +58,11 @@ Your task is to print the following message on the screen: **Hello, this is my f
 ```bash
 Hello, this is my first output!
 ```
+
+### Task 2.1.4
+
+Your task is to print the following two messages on the screen, one after the other: **Hello there!** and *This is my second output.*
+* Your result should look like this:
+```bash
+Hello there!
+This is my second output.
