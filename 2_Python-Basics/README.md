@@ -31,7 +31,7 @@ Here are some useful resources for you to explore:
 
 ## Exercises
 
-2.1 Introduction
+**2.1 Introduction**
 
 > **When**: After reviewing the first class material
 >
@@ -45,7 +45,7 @@ Here are some useful resources for you to explore:
 >
 > **Solutions Link:** https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.1_Introduction/src/solutions.py
 
-2.2 Texts
+**2.2 Texts**
 
 > **When**: After reviewing the first class material
 >
