@@ -31,7 +31,7 @@ Here are some useful resources for you to explore:
 
 ## Exercises
 
-2.1 Introduction
+2.2 Introduction
 
 > **When**: After reviewing the first class material
 >
