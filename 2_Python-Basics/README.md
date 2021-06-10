@@ -45,7 +45,7 @@ Here are some useful resources for you to explore:
 >
 > **Solution:** https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.1_Introduction/src/solutions.py
 
-2.1 Introduction
+2.1 Texts
 
 > **When**: After reviewing the first class material
 >
