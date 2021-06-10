@@ -31,7 +31,7 @@ Here are some useful resources for you to explore:
 
 ## Exercises
 
-2.2 Introduction
+2.1 Introduction
 
 > **When**: After reviewing the first class material
 >
@@ -39,13 +39,13 @@ Here are some useful resources for you to explore:
 >
 > **Level of Difficult**: Low to Medium
 >
-> **Description**: There are 16 sub-exercises to complete
+> **Description**: There are 16 sub-exercises to complete in the area of working with Python print statemetns and comments
 >
-> **Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.1_Introduction
+> **Exercises Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.1_Introduction
 >
-> **Solution:** https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.1_Introduction/src/solutions.py
+> **Solutions Link:** https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.1_Introduction/src/solutions.py
 
-2.1 Texts
+2.2 Texts
 
 > **When**: After reviewing the first class material
 >
@@ -53,7 +53,7 @@ Here are some useful resources for you to explore:
 >
 > **Level of Difficult**: Low to Medium
 >
-> **Description**: There are 10 sub-exercises to complete
+> **Description**: There are 10 sub-exercises to complete in the area of working with Python text (Strings)
 >
 > **Exercises Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.2_Texts
 >
