@@ -31,17 +31,31 @@ Here are some useful resources for you to explore:
 
 ## Exercises
 
-2.1 Introduction
+**2.1 Introduction**
 
 > **When**: After reviewing the first class material
 >
-> **Time:** ~90 minutes
+> **Time:** ~30 minutes
 >
 > **Level of Difficult**: Low to Medium
 >
-> **Description**: There are 15 sub-exercises to complete
+> **Description**: There are 16 sub-exercises to complete in the area of working with Python print statemetns and comments
 >
-> **Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.1_Introduction
+> **Exercises Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.1_Introduction
 >
-> **Solution:** https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.1_Introduction/src/solutions.py
+> **Solutions Link:** https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.1_Introduction/src/solutions.py
+
+**2.2 Texts**
+
+> **When**: After reviewing the first class material
+>
+> **Time:** ~30 minutes
+>
+> **Level of Difficult**: Low to Medium
+>
+> **Description**: There are 10 sub-exercises to complete in the area of working with Python text (Strings)
+>
+> **Exercises Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.2_Texts
+>
+> **Solutions Link:** https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.2_Texts/src/solutions.py
 
