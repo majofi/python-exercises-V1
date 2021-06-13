@@ -108,7 +108,7 @@ Your task is to create a basic Python program using the **main()** method.
 
 ```bash
 def main():
-    print("Hello World!")
+    print("Hello","World!")
 
 if __name__ == "__main__":
     main()
