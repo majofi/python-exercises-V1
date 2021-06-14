@@ -35,7 +35,7 @@ print(name) # In this case I will print the content of the name variable
 
 ## Exercises
 
-### Task 2.2.1 
+### Task 2.2.1.1 
 
 Your task is to create a variable called ```city``` to store the data: ```London``` , then print the content of the ```city``` variable on the screen. 
 
@@ -45,7 +45,7 @@ Your task is to create a variable called ```city``` to store the data: ```London
 London
 ```
 
-### Task 2.2.2
+### Task 2.2.1.2
 
 Your task is to create two variables, the first variable to be called ```city``` and will store the data: ```berlin``` , and the second variable to be called ```population``` and will store the data: ```3645000```. Then print the content of the ```city``` and ```population``` using a colon (```:```)  in between.  Make sure you capitalize the content of the ```city``` variable.
 
@@ -55,7 +55,7 @@ Your task is to create two variables, the first variable to be called ```city```
 Berlin: 3645000
 ```
 
-### Task 2.2.3
+### Task 2.2.1.3
 
 Your task is to create two variables, the first variable to be called ```city``` and will store the data: ```london``` , and the second variable to be called ```population``` and will store the data: ```9000000```. Then print the content of the ```city``` and ```population``` using their labels as shown in the output below. Make sure you check if the content of the ```city``` is a text. Print the appropriate results on screen as shown bellow.
 
@@ -66,7 +66,7 @@ City: London (True)
 Population: 9000000 
 ```
 
-### Task 2.2.4
+### Task 2.2.1.4
 
 Create a variable called ```text``` to store the data: ```Berlin is surrounded by the State of Brandenburg and contiguous with Potsdam, Brandenburg's capital.``` . You task is to check if  the word ```capital```  is included in the text, if so, print the index of the location inside the ```text``` string. 
 
@@ -76,7 +76,7 @@ Create a variable called ```text``` to store the data: ```Berlin is surrounded b
 London: 92
 ```
 
-### Task 2.2.5
+### Task 2.2.1.5
 
 Create a variable called ```text``` to store the data: ```Berlin straddles the banks of the Spree, which flows into the Havel (a tributary of the Elbe) in the western borough of Spandau.``` . You task is to split the content of the ```text``` variable and store it in a list.
 
@@ -86,7 +86,7 @@ Create a variable called ```text``` to store the data: ```Berlin straddles the b
 ['Berlin', 'straddles', 'the', 'banks', 'of', 'the', 'Spree,', 'which', 'flows', 'into', 'the', 'Havel', '(a', 'tributary', 'of', 'the', 'Elbe)', 'in', 'the', 'western', 'borough', 'of', 'Spandau.']
 ```
 
-### Task 2.2.6
+### Task 2.2.1.6
 
 Create a variable called ```text``` to store the data: ```Berlin is surrounded by the State of Brandenburg and contiguous with Potsdam, Brandenburg's capital.``` . You task is to replace if  the word ```capital``` with the phrase  ```capital of Germany``` . 
 
