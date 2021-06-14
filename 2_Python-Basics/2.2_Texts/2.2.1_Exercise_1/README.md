@@ -1,7 +1,5 @@
 # Exercise 2.2.1
 
-## 
-
 ## Python Texts
 
 In this exercise, we will focus on the use and manipulation of text  in Python, including printing special characters, storing text in  variables, and various tools for manipulating text including:
