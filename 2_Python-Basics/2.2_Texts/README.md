@@ -33,9 +33,15 @@ Here are some useful resources for you to explore:
 >
 > **Description**: There are 16 sub-exercises to complete
 >
-> **Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.2_Texts/2.2.1_Exercise_1
+> **Link:** https://github.com/dci-python-course/2.2.1_Exercise_1/tree/main
+> 
+> 
+> https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.2_Texts/2.2.1_Exercise_1
 >
-> **Solution:** https://github.com/dci-python-course/python-exercises-V1/tree/solution/2_Python-Basics/2.2_Texts/2.2.1_Exercise_1
+> **Solution:** https://github.com/dci-python-course/2.2.1_Exercise_1/tree/solution
+> 
+> 
+> https://github.com/dci-python-course/python-exercises-V1/tree/solution/2_Python-Basics/2.2_Texts/2.2.1_Exercise_1
 
 2.2 String methods
 
