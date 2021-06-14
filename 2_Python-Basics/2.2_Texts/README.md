@@ -35,7 +35,7 @@ Here are some useful resources for you to explore:
 >
 > **Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.2_Texts/2.2.1_Exercise_1
 >
-> **Solution:** https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.2_Texts/2.2.1_Exercise_1/src/solution.py
+> **Solution:** https://github.com/dci-python-course/python-exercises-V1/tree/solution/2_Python-Basics/2.2_Texts/2.2.1_Exercise_1
 
 2.2 String methods
 
@@ -47,9 +47,9 @@ Here are some useful resources for you to explore:
 >
 > **Description**: There are 10 sub-exercises to complete
 >
-> **Exercises Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.2_Texts
+> **Exercises Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.2_Texts/2.2.1_Exercise_2
 >
-> **Solutions Link:** https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.2_Texts/src/solutions.py
+> **Solutions Link:** https://github.com/dci-python-course/python-exercises-V1/tree/solution/2_Python-Basics/2.2_Texts/2.2.1_Exercise_2
 
 2.3 Using regular expressions
 
@@ -61,6 +61,6 @@ Here are some useful resources for you to explore:
 >
 > **Description**: There are 10 sub-exercises to complete
 >
-> **Exercises Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.2_Texts
->
-> **Solutions Link:** https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.2_Texts/src/solutions.py
+> **Exercises Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.2_Texts/2.2.1_Exercise_3
+> 
+> **Solutions Link:** https://github.com/dci-python-course/python-exercises-V1/tree/solution/2_Python-Basics/2.2_Texts/2.2.1_Exercise_3
