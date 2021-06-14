@@ -1,65 +1,67 @@
-# Exercise 2.2.3: Python Regex Methods
+# Exercise 2.2.3: Python Regex
 
-In this exercise, we will focus on the use and manipulation of text in Python, including printing special characters, storing text in variables, and various tools for manipulating text including:
+In this exercise, we will focus on the use and manipulation of text  in Python, including including:
 
-* Using the text concatenation method
-* Find the length of a text
-* Changing the case of the text
+- Using the Python regex
+- Creating custom regex patterns
 
-## Usage
+### Task 2.2.3.1
 
-A text (also known as String) is a sequence of characters and it is considered one of the most used data types. A common characteristic of Strings is that it is immutable, meaning that once created we cannot change it. From now on we can use both terms interchangeably during this module.
+Your task is to create a variable called `text` to store the data: `Berlin is a world city of culture, politics, media and science.` . Then search for the first white space character in the string and print its location using the appropriate label. 
 
-The most common wat to use text in Python is to store the textual data in a variable. The next example demonstrates the creation of a new variable called ```name``` in order to store the data ```Mary```. To do this, we need to follow the next syntax:
+- Your result should look like this:
 
-
-```bash
-name = "Mary"
+```
+The first white-space character is located in position: 6
 ```
 
-Let's see another example of a phrase:
+### Task 2.2.3.2
 
-```bash
-text = "Python is amazing!"
+Your task is to create a variable called `text` to store the data: `Berlin is surrounded by the State of Brandenburg and contiguous with Potsdam, Brandenburg's capital.` . Then search for the word `Frankfurt` in the string . 
+
+- Your result should look like this:
+
+```
+None
 ```
 
-We can simple, use the ```text``` variable to extract the required data, for example the next script prints the name ```Mary``` on the screen.
+### Task 2.2.3.3
 
+Your task is to create a variable called `text` to store the data: `Berlin is a city of culture.` . Replace the spaces with a hyphen.
 
-```bash
-print(name) # In this case I will print the content of the name variable
+- Your result should look like this:
+
+```
+Berlin-is-a-city-of-culture.
 ```
 
+### Task 2.2.3.4
 
-## Exercises
+Your task is to create a variable called `text` to store the data: `Berlin is a city of culture.` . Search if the phrase `in` appears inside the string. Print the output of the regex function.
 
-### Subtask 1
+- Your result should look like this:
 
-Your task is to create a variable called ```city``` to store the data: ```London``` , then print the content of the ```city``` variable on the screen. 
-
-* Your result should look like this:
-
-```bash
-London
+```
+<re.Match object; span=(4, 6), match='in'>
 ```
 
-### Subtask 2
+### Task 2.2.3.5
 
-Your task is to create two variables, the first variable to be called ```city``` and will store the data: ```Berlin``` , and the second variable to be called ```population``` and will store the data: ```3645000```. Then print the content of the ```city``` and ```population``` using a colon (```:```)  in between. 
+Use the `text` variable from the previous task. Create a regular expression to look for any words that starts with an upper case "B". Print the position (start- and end-position) of the first match occurrence. 
 
-* Your result should look like this:
+- Your result should look like this:
 
-```bash
-London: 3645000
+```
+(0, 6)
 ```
 
-### Subtask 3
+### Task 2.2.3.6
 
-Your task is to create two variables, the first variable to be called ```city``` and will store the data: ```London``` , and the second variable to be called ```population``` and will store the data: ```9000000```. Then print the content of the ```city``` and ```population``` using their labels as shown in the output below.
+Your task is to create a variable called `text` to store the data: `The rain in Spain.`. Count how many times the subphrase `ai` appears in the string.
 
-* Your result should look like this:
+- Your result should look like this:
 
-```bash
-City: London
-Population: 9000000
 ```
+2
+```
+
