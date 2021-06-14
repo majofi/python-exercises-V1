@@ -12,7 +12,7 @@ In this exercise, we will focus on the use and manipulation of text in Python, i
 
 A text (also known as String) is a sequence of characters and it is considered one of the most used data types. A common characteristic of Strings is that it is immutable, meaning that once created we cannot change it. From now on we can use both terms interchangeably during this module.
 
-The most common wat to use text in Python is to store the textual data in a variable. The next example demonstrates the creation of a new variable called ```name``` in order to store the data ```Mary```. To do this, we need to follow the next syntax:
+The most common way to use text in Python is to store the textual data in a variable. The next example demonstrates the creation of a new variable called ```name``` in order to store the data ```Mary```. To do this, we need to follow the next syntax:
 
 
 ```bash
