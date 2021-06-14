@@ -33,9 +33,11 @@ Here are some useful resources for you to explore:
 >
 > **Description**: There are 16 sub-exercises to complete
 >
-> **Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.1_Introduction
+> **Link:** https://github.com/steliosot/2.2.1_Exercise_1/tree/main
+> (https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.1_Introduction)
 >
-> **Solution:** https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.1_Introduction/src/solutions.py
+> **Solution:** https://github.com/steliosot/2.2.1_Exercise_1/tree/solution
+> (https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.1_Introduction/src/solutions.py)
 
 2.2 String methods
 
