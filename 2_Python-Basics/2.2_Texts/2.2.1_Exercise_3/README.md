@@ -1,6 +1,6 @@
 # Exercise 2.2.3
 
-### Python Regex
+## Python Regex
 
 In this exercise, we will focus on the use and manipulation of text  in Python, including including:
 
