@@ -35,7 +35,7 @@ Here are some useful resources for you to explore:
 >
 > **Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.2_Texts/2.2.1_Exercise_1
 >
-> **Solution:** https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.1_Introduction/src/solutions.py
+> **Solution:** https://github.com/dci-python-course/python-exercises-V1/blob/solution/2_Python-Basics/2.2_Texts/2.2.1_Exercise_1/src/solution.py
 
 2.2 String methods
 
