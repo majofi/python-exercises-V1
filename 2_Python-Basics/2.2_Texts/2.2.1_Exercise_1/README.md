@@ -1,82 +1,112 @@
-# Exercise 2.2.2
+# Exercise 2.2.1
 
-## Python Methods
+## 
 
-In this exercise, we will focus on the use and manipulation of text in Python, including :
+## Python Texts
 
-* Counting characters in the text
-* Slicing strings
+In this exercise, we will focus on the use and manipulation of text  in Python, including printing special characters, storing text in  variables, and various tools for manipulating text including:
 
-### Task 2.2.2.1 
+- Using the text concatenation method
+- Find the length of a text
+- Changing the case of the text
 
-Create a variable called ```text``` to store the data: ```Berlin is a world city of culture, politics, media and science.``` . Your task is to print the length of the ```text``` variable on the screen. 
+## 
 
-* Your result should look like this:
+## Usage
 
-```bash
-63
+A text (also known as String) is a sequence of characters and it is  considered one of the most used data types. A common characteristic of  Strings is that it is immutable, meaning that once created we cannot  change it. From now on we can use both terms interchangeably during this module.
+
+The most common way to use text in Python is to store the textual  data in a variable. The next example demonstrates the creation of a new  variable called `name` in order to store the data `Mary`. To do this, we need to follow the next syntax:
+
+```
+name = "Mary"
 ```
 
-### Task 2.2.2.2
+Let's see another example of a phrase:
 
-Reuse the variable called ```text```  and print the first and the last characters on the screen. 
-
-* Your result should look like this:
-
-```bash
-B n
+```
+text = "Python is amazing!"
 ```
 
-### Task 2.2.2.3
+We can simple, use the `text` variable to extract the required data, for example the next script prints the name `Mary` on the screen.
 
-Reuse the variable called ```text```  and print the first three characters in upper case.
-
-* Your result should look like this:
-
-```bash
-First three characters: BER
+```
+print(name) # In this case I will print the content of the name variable
 ```
 
-### Task 2.2.2.4
+## 
 
-Create the variable called ```text``` with the following content:  ```Berlin is surrounded by the State of Brandenburg and contiguous with Potsdam, Brandenburg's capital ```, then count how many times the letter  ```B ``` appears in the text.
+## Exercises
 
-* Your result should look like this:
+### 
 
-```bash
-B appears:  3  times
+### Task 2.2.1.1
+
+Your task is to create a variable called `city` to store the data: `London` , then print the content of the `city` variable on the screen.
+
+- Your result should look like this:
+
+```
+London
 ```
 
-### Task 2.2.2.5
+### 
 
-Create a variable called ```text``` to store the data: ```Berlin straddles the banks of the Spree, which flows into the Havel (a tributary of the Elbe) in the western borough of Spandau.``` . You task is to print the last 10 characters of the ```text``` variable on screen.
+### Task 2.2.1.2
 
-* Your result should look like this:
+Your task is to create two variables, the first variable to be called `city` and will store the data: `berlin` , and the second variable to be called `population` and will store the data: `3645000`. Then print the content of the `city` and `population` using a colon (`:`)  in between.  Make sure you capitalize the content of the `city` variable.
 
-```bash
-Eight last characters:  Spandau.
+- Your result should look like this:
+
+```
+Berlin: 3645000
 ```
 
-### Task 2.2.2.6
+### 
 
-Create a variable called ```text``` to store the data: ```---Python programming---``` . You task is to remove the hyphen (```-```) character from the string.
+### Task 2.2.1.3
 
-* Your result should look like this:
+Your task is to create two variables, the first variable to be called `city` and will store the data: `london` , and the second variable to be called `population` and will store the data: `9000000`. Then print the content of the `city` and `population` using their labels as shown in the output below. Make sure you check if the content of the `city` is a text. Print the appropriate results on screen as shown bellow.
 
-```bash
-Python programming
+- Your result should look like this:
+
+```
+City: London (True)
+Population: 9000000 
 ```
 
-### Task 2.2.2.7
+### 
 
-Create two variables to store your first and your last name. Your task is to concatenate the two variables using the appropriate labels.
+### Task 2.2.1.4
 
-* You should provide a single line print statement.
+Create a variable called `text` to store the data: `Berlin is surrounded by the State of Brandenburg and contiguous with Potsdam, Brandenburg's capital.` . You task is to check if  the word `capital`  is included in the text, if so, print the index of the location inside the `text` string.
 
-* Your result should look like this:
+- Your result should look like this:
 
-```bash
-Firstname: Mary 
-Lastname: Mat
+```
+London: 92
 ```
 
+### 
+
+### Task 2.2.1.5
+
+Create a variable called `text` to store the data: `Berlin straddles the banks of the Spree, which flows into the Havel (a tributary of the Elbe) in the western borough of Spandau.` . You task is to split the content of the `text` variable and store it in a list.
+
+- Your result should look like this:
+
+```
+['Berlin', 'straddles', 'the', 'banks', 'of', 'the', 'Spree,', 'which', 'flows', 'into', 'the', 'Havel', '(a', 'tributary', 'of', 'the', 'Elbe)', 'in', 'the', 'western', 'borough', 'of', 'Spandau.']
+```
+
+### 
+
+### Task 2.2.1.6
+
+Create a variable called `text` to store the data: `Berlin is surrounded by the State of Brandenburg and contiguous with Potsdam, Brandenburg's capital.` . You task is to replace if  the word `capital` with the phrase  `capital of Germany` .
+
+- Your result should look like this:
+
+```
+Berlin is surrounded by the State of Brandenburg and contiguous with Potsdam, Brandenburg's capital of Germany.
+```
