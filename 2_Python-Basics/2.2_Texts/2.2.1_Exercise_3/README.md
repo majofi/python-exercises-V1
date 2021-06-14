@@ -59,7 +59,7 @@ Use the `text` variable from the previous task. Create a regular expression to l
 
 ### Task 2.2.3.6
 
-Your task is to create a variable called `text` to store the data: `The rain in Spain.`. Count how many times the subphrase `ai` appears in the string.
+Your task is to create a variable called `text` to store the data: `The rain in Spain.`. Count how many times the subphrase `ai` appears in the string. Print the results on the screen.
 
 - Your result should look like this:
 
