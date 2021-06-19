@@ -19,7 +19,7 @@ Here are some useful resources for you to explore:
 * [Python tutorial](https://www.w3schools.com/python/)
 
 
-## Exercises
+## Exercise
 
 2.1 Working with basic date/times
 
@@ -34,17 +34,3 @@ Here are some useful resources for you to explore:
 > **Link:** https://github.com/dci-python-course/Exercise_2.3.1/tree/main
 >
 > **Solution:** https://github.com/dci-python-course/Exercise_2.3.1/tree/solution
-
-2.1 Working with advanced date/times
-
-> **When**: After reviewing the section: Working with Strings
->
-> **Time:** ~45 minutes
->
-> **Level of Difficult**: Medium to hard
->
-> **Description**: Complete the sub-exercises regarding calendar creation and manipulation
->
-> **Exercises Link:** https://github.com/dci-python-course/Exercise_2.3.2/tree/main
->
-> **Solutions Link:** https://github.com/dci-python-course/Exercise_2.3.2/tree/solution
