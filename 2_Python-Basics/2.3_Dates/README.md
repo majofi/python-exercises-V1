@@ -1,15 +1,13 @@
 # Overview
 
-This submodule will help you learn how to work with text for programming with Python. We will explore a variety of concepts including using Strings, methods to create and manipulate Strings, ways to slice and extract substrings and the use of regular expressions.
+This submodule will help you learn how to work with dates for programming with Python. We will explore a variety of concepts including using datetime, time and calendar classes and their methods to create and manipulate date objects in Python.
 
 ## Objectives
 
 By the end of this submodule, you should be able to:
 
-* Work with Strings in Python
-* Use methods to concatenate and modify Strings
-* Use methods to search, replace a part of split a Python String
-* Use the **re** Python library to create scripts for regular expressions
+* Work with dates in Python
+* Use libraries to create and manipulate date objects (datetime, time, calendar)
 
 ## Material and Resources
 
@@ -23,36 +21,30 @@ Here are some useful resources for you to explore:
 
 ## Exercises
 
-2.1 Working with Strings
+2.1 Working with basic date/times
 
 > **When**: After reviewing the section: Introduction to Python Strings
 >
 > **Time:** ~90 minutes
 >
-> **Level of Difficult**: Low to Medium
+> **Level of Difficult**: Low
 >
-> **Description**: There are 16 sub-exercises to complete
+> **Description**: Complete the sub-exercises regarding date/time creation and manipulation
 >
-> **Link:** https://github.com/dci-python-course/2.2.1_Exercise_1/tree/main
-> 
-> 
-> https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.2_Texts/2.2.1_Exercise_1
+> **Link:** 
 >
-> **Solution:** https://github.com/dci-python-course/2.2.1_Exercise_1/tree/solution
-> 
-> 
-> https://github.com/dci-python-course/python-exercises-V1/tree/solution/2_Python-Basics/2.2_Texts/2.2.1_Exercise_1
+> **Solution:** 
 
-2.2 String methods
+2.1 Working with advanced date/times
 
 > **When**: After reviewing the section: Working with Strings
 >
 > **Time:** ~135 minutes
 >
-> **Level of Difficult**: Low to Medium
+> **Level of Difficult**: Medium to hard
 >
-> **Description**: There are 10 sub-exercises to complete
+> **Description**: Complete the sub-exercises regarding calendar creation and manipulation
 >
-> **Exercises Link:** https://github.com/dci-python-course/python-exercises-V1/tree/main/2_Python-Basics/2.2_Texts/2.2.1_Exercise_2
+> **Exercises Link:** 
 >
-> **Solutions Link:** https://github.com/dci-python-course/python-exercises-V1/tree/solution/2_Python-Basics/2.2_Texts/2.2.1_Exercise_2
+> **Solutions Link:** 
