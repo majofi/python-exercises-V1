@@ -45,6 +45,6 @@ Here are some useful resources for you to explore:
 >
 > **Description**: Complete the sub-exercises regarding calendar creation and manipulation
 >
-> **Exercises Link:** 
+> **Exercises Link:** https://github.com/dci-python-course/Exercise_2.3.2/tree/main
 >
-> **Solutions Link:** 
+> **Solutions Link:** https://github.com/dci-python-course/Exercise_2.3.2/tree/solution
