@@ -27,9 +27,9 @@ Here are some useful resources for you to explore:
 >
 > **Time:** ~45 minutes
 >
-> **Level of Difficult**: Low
+> **Level of Difficult**: Low to medium
 >
-> **Description**: Complete the sub-exercises regarding date/time creation and manipulation
+> **Description**: Complete the sub-exercises regarding date/time and calendar creation and manipulation
 >
 > **Link:** https://github.com/dci-python-course/Exercise_2.3.1/tree/main
 >
