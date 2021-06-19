@@ -31,9 +31,9 @@ Here are some useful resources for you to explore:
 >
 > **Description**: Complete the sub-exercises regarding date/time creation and manipulation
 >
-> **Link:** 
+> **Link:** https://github.com/dci-python-course/Exercise_2.3.1/tree/main
 >
-> **Solution:** 
+> **Solution:** https://github.com/dci-python-course/Exercise_2.3.1/tree/solution
 
 2.1 Working with advanced date/times
 
