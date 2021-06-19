@@ -25,7 +25,7 @@ Here are some useful resources for you to explore:
 
 > **When**: After reviewing the section: Introduction to Python Strings
 >
-> **Time:** ~90 minutes
+> **Time:** ~45 minutes
 >
 > **Level of Difficult**: Low
 >
@@ -39,7 +39,7 @@ Here are some useful resources for you to explore:
 
 > **When**: After reviewing the section: Working with Strings
 >
-> **Time:** ~135 minutes
+> **Time:** ~45 minutes
 >
 > **Level of Difficult**: Medium to hard
 >
