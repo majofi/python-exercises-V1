@@ -33,4 +33,4 @@ Here are some useful resources for you to explore:
 >
 > **Link:** https://github.com/dci-python-course/Exercise_2.3.1/tree/main
 >
-> **Solution:** https://github.com/dci-python-course/Exercise_2.3.1/tree/solution
+> **Solution:** https://github.com/dci-python-course/python-exercises-V1/tree/solution/2_Python-Basics/2.3_Dates
