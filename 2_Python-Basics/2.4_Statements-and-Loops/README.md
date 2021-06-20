@@ -25,7 +25,7 @@ Working with loops
 
 > **When**: After reviewing the section: Loops in Python
 >
-> **Time:** ~45 minutes
+> **Time:** ~135 minutes
 >
 > **Level of Difficult**: Low to medium
 >
